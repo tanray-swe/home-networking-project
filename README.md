@@ -3,7 +3,7 @@ Home Networking Project
 
 I like to tinker during my free time with anything tech-related. Learning never stops, and practical home IT projects is one of the best ways of keep the spirit of continuous learning alive.
 
-Here I am documenting my current home networking setup. As with most things, it's always "Work-In Progress".
+Here I am documenting my current home networking setup. As with most things, it's always "Work In Progress".
 
 While I've never had any complaints from my "customers" (family!) during the course of the upgrade of my home network from a standard single-router setup to the current setup (due to careful planning and testing on an isolated subnet so as not to affect the production network), nothing is ever set in stone, and I may add features in the future if necessary.
 
