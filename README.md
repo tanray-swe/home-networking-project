@@ -52,10 +52,18 @@ Second-hand routers as dumb APs:
 * 24 MB storage
 * Cost: ABout SGD 10 - 25 each, second-hand.
 
+Screenshot of the OPNsense Dashboard:
+
 <img src="opnsense-r1a.png">
+
+Screenshot of the OPNsense Services:
 
 <img src="opnsense-r1b.png">
 
+Screenshot of the Status page of Dumb AP One:
+
 <img src="openwrt-ap1.png">
+
+Screenshot of the Status page of Dumb AP Two:
 
 <img src="openwrt-ap2.png">
