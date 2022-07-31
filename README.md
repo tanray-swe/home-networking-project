@@ -7,9 +7,9 @@ Here I am documenting my current home networking setup. As with most things, it'
 
 While I've never had any complaints from my "customers" (family!) during the course of the upgrade of my home network from a standard single-router setup to the current setup (due to careful planning and testing on an isolated subnet so as not to affect the production network), nothing is ever set in stone, and I may add features in the future if necessary.
 
-I would say the current setup is pretty close to the final setup as I've been working on this on and off since installing OPNsense 21.7.6 (not sure about the exact version) for the first time around November 2021, but never say never... anyway, one to the real stuff!
+I would say the current setup is pretty close to the final setup as I've been working on this on and off since installing OPNsense 21.7.6 (not sure about the exact version) for the first time around November 2021, but never say never... anyway, on to the real stuff!
 
-There were a couple of objectives in this Home Networking Project:
+There are a couple of objectives in this Home Networking Project:
 * It should be cheap and re-use existing older hardware, i.e. cheap mini-PCs with only a single Realtek gigabit NIC, as well as older generation routers that can be re-flashed easily with OpenWrt.
 * It should boot off cheap USB flash drives which means failover is possible with another cheap mini-PC and another USB flash drive as a cold-standby and for testing new OPNsense builds.
 * It should support both IPv4 and IPv6 that my ISP provides.
