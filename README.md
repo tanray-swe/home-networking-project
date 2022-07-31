@@ -1,4 +1,4 @@
-# home-projects
+# home-networking-project
 Home Networking Project
 
 I like to tinker during my free time with anything tech-related. Learning never stops, and dabbling in practical home IT projects is one of the best ways of keep the spirit of continuous learning alive.
