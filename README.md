@@ -50,7 +50,7 @@ Second-hand routers as dumb APs:
 * MediaTek MT7621
 * 256 MB RAM
 * 24 MB storage
-* Cost: ABout SGD 10 - 25 each, second-hand.
+* Cost: About SGD 10 - 25 each, second-hand.
 
 Screenshot of the OPNsense Dashboard:
 
