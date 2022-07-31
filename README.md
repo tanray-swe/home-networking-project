@@ -7,10 +7,10 @@ Here you can see screenshots of the "Overview" pages of my home OPNsense and Ope
 
 There were a couple of objectives in this setup.
 * It should be cheap and re-use existing older hardware, i.e. cheap mini-PCs with only a single Realtek gigabit NIC, as well as older generation routers that can be re-flashed easily with OpenWrt.
-* It should boot off cheap USB flash drives which means redundancy is possible with another cheap mini-PC and another USB flash drive as a cold-standby and for testing new OPNsense builds.
+* It should boot off cheap USB flash drives which means failover is possible with another cheap mini-PC and another USB flash drive as a cold-standby and for testing new OPNsense builds.
 * It should support both IPv4 and IPv6 that my ISP provides.
 * It should be scalable (to a certain extent).
-* It should support redundancy so that if any part breaks (router / mini-PC / USB flash drive), it's quick and easy to replace them with minimal downtime.
+* It should support failover so that if any part breaks (router / mini-PC / USB flash drive), it's quick and easy to replace them with minimal downtime.
 * It should use open-source software and not stock firmware that comes with routers.
 
 Two cheap second-hand routers running OpenWrt are running in "dumb access points" (AP) mode. They do not run DHCP nor DNS servers and function merely as a switch with wireless access points on the 2.4GHz and 5GHz channels. They are connected to each other via 802.11s "mesh" networking using WPA3 SAE encryption. I understand that strictly speaking, it isn't really a mesh as that requires at least three access points. My apartment isn't that large, so two access points are more than enough to cover my entire home. However, if necessary, I can easily add a third dumb AP to my network, which I did for a while, but removed rather quickly as I found it redundant.
