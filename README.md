@@ -5,6 +5,8 @@ I like to tinker during my free time with anything tech-related. Learning never 
 
 Here I am documenting my current home networking setup. As with most things, it's always "Work In Progress".
 
+Disclaimer: This is not meant to be a full and detailed documentation. Consider it a sneak preview of the full project.
+
 While I've never had any complaints from my "customers" (family!) during the course of the upgrade of my home network from a standard single-router setup to the current setup (due to careful planning and testing on an isolated subnet so as not to affect the production network), nothing is ever set in stone, and I may add features in the future if necessary.
 
 I would say the current setup is pretty close to the final setup as I've been working on this on and off since installing OPNsense 21.7.6 (not sure about the exact version) for the first time around November 2021, but never say never... anyway, on to the real stuff!
