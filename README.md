@@ -38,7 +38,7 @@ Services running on my router:
 * WireGuard Road Warrior, as a cheap "VPN" when I am connected externally on "open" wireless networks, and also lets me easily configure my home network while outside in a secure manner without using (insecure) backdoors.
 * Nginx server as a proof-of-concept (currently hosts nothing).
 
-All devices are running software versions that are "reasonably" recent; no snapshots (too much unnecessary drama there). RCs (release candidates) are fine as long as I'm not an early adopter and the major showstopping issues have already been sorted. As at 31 July 2022, I'm running OpenWrt 22.03.0-rc5 (first released on 7 July 2022) and OPNsense 22.7_4-amd64 (first released on 29 July 2022), and I apply and test updates where available on a weekly basis.
+All devices are running software versions that are "reasonably" recent; no snapshots (too much unnecessary drama there). RCs (release candidates) are fine as long as I'm not an early adopter and the major showstopping issues have already been sorted. As at 10 August 2022, I'm running OpenWrt 22.03.0-rc6 (first released on 1 August 2022) and OPNsense 22.7.1-amd64 (first released on 9 August 2022), and I apply and test updates where available on a weekly basis.
 
 The accompanying screenshots right at the bottom of this document show the hardware specifications of my mini-PC as well as the two routers running in "dumb AP" mode. They are summarized here.
 
